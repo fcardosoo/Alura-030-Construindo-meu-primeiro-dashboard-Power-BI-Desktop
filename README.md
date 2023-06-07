@@ -16,14 +16,14 @@ Destacar:<br>
 
 
 <h2>Aprendizado</h2><br>
-* realizar uma conexão com o arquivo do tipo texto;
-* realizar uma conexão Web, para se conectar ao Google Sheets;
-* realizar uma conexão de um arquivo do Excel;
-* fazer uma conexão de uma pasta com vários arquivos do Excel.
-* A disposição das áreas do Power BI;
-* A relacionar tabelas;
-* Remover espaços vazios;
-* A linguagem DAX;
-* Adicionar colunas;
-* Criar medidas.
+    - realizar uma conexão com o arquivo do tipo texto;
+    - realizar uma conexão Web, para se conectar ao Google Sheets;
+    - realizar uma conexão de um arquivo do Excel;
+    - fazer uma conexão de uma pasta com vários arquivos do Excel.
+    - A disposição das áreas do Power BI;
+    - A relacionar tabelas;
+    - Remover espaços vazios;
+    - A linguagem DAX;
+    - Adicionar colunas;
+    - Criar medidas.
 
