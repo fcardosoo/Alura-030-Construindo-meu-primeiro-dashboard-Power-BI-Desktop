@@ -1,13 +1,13 @@
 <H1>Dashboard Power BI - Petshop</H1>
 
 <p>A petshop tem duas grandes marcas, que são as marcas Doguito e Gatito.</p><br>
-Destacar:<br>
+<b>Destacar:</b><br>
     - Faturamento total;<br>
-    - visualizar de uma forma gráfica esse faturamento por mês;<br>
-    - filtrarmos por marca;<br>
-    - produtos disponíveis na loja;<br>
-    - faturamento com cada produto;<br>
-    - média de pets que cada consumidor;<br>
+    - Visualizar de uma forma gráfica esse faturamento por mês;<br>
+    - Filtrarmos por marca;<br>
+    - Produtos disponíveis na loja;<br>
+    - Faturamento com cada produto;<br>
+    - Média de pets que cada consumidor;<br>
     
 <h2>Bases de dados</h2>
 
@@ -16,10 +16,10 @@ Destacar:<br>
 
 
 <h2>Aprendizado</h2><br>
-    - realizar uma conexão com o arquivo do tipo texto;<br>
-    - realizar uma conexão Web, para se conectar ao Google Sheets;<br>
-    - realizar uma conexão de um arquivo do Excel;<br>
-    - fazer uma conexão de uma pasta com vários arquivos do Excel;<br>
+    - Realizar uma conexão com o arquivo do tipo texto;<br>
+    - Realizar uma conexão Web, para se conectar ao Google Sheets;<br>
+    - Realizar uma conexão de um arquivo do Excel;<br>
+    - Fazer uma conexão de uma pasta com vários arquivos do Excel;<br>
     - A disposição das áreas do Power BI;<br>
     - A relacionar tabelas;<br>
     - Remover espaços vazios;<br>
