@@ -26,4 +26,3 @@
     - A linguagem DAX;<br>
     - Adicionar colunas;<br>
     - Criar medidas;<br>
-
